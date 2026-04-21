@@ -46,7 +46,7 @@ try:
     # login y obtención del token
     print("📡 Conectando a Kenjo...")
     url = "https://api.kenjo.io/api/v1/auth/login"
-    payload = { "apiKey": "64efa6ae3b506b33130d07850b292be7131a50d6bbf1dccbe229a3b0" }
+    payload = { "apiKey": "1234567890qwertyuiopadfghjklñzxcvbnm" }
     headers = {
         "accept": "application/json",
         "content-type": "application/json"
